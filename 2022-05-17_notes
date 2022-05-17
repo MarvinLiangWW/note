@@ -1,0 +1,9 @@
+# 双端队列 queue 
+
+## queue = collections.deque()
+
+## cur = queue.popleft()
+
+
+
+## left = queue.appendleft()
